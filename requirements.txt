@@ -4,3 +4,6 @@ numpy
 matplotlib
 seaborn
 folium
+streamlit-folium
+scikit-learn
+statsmodels
